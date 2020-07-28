@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+
+
+html {
+    background-image: url(/kép/proba.jpg);
+    background-repeat: repeat;
+    background-size: 10%;
+    opacity: 1;
+
+    
+
+
+}
+.koszones { 
+    font-family: 'Amatic SC', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: #000c33;
+    
+}
+h2 {   font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    text-align: center;
+    
+
+}
+header {  background-image: url(/kép/proba.jpg);
+    background-repeat: repeat;
+    background-size: 10%;
+    opacity: 1;
+
+}
+
+table {
+    background-image: url(/kép/proba.jpg);
+    background-repeat: repeat;
+    background-size: 10%;
+    opacity: 1;
+
+}

@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Covered+By+Your+Grace&family=Handlee&family=Sacramento&display=swap');@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Handlee&family=Sacramento&display=swap');
+
+
+
+
+.cím { 
+    color: #668cff;
+    font-size: 70px;
+    font-weight: 900;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    }
+
+.kaja {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    font-weight: 100;
+    text-align: center;
+
+}
+
+.uzenet {
+text-align: center;
+    font-size:15px;
+    color: lightsteelblue;
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10;
+    border: solid 6px slategrey;
+    box-shadow:0 0 7px black;
+    padding: 1px 100px 1px 100px;
+    background-color: white;
+   
+    
+    
+}
+
+html {
+    background-image: url(/kép/proba.jpg);
+    background-repeat: repeat;
+    background-size: 10%;
+    opacity: 1;
+
+    
+
+
+}
+.koszones { 
+    font-family: 'Amatic SC', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: #000c33;
+}
+h2 {   font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    text-align: center;
+    
+
+}
+header {  background-image: url(/kép/proba.jpg);
+    background-repeat: repeat;
+    background-size: 10%;
+    opacity: 1;
+
+}
+
+body { background-image: url(/kép/proba.jpg);
+    background-repeat: repeat;
+    background-size: 10%;
+    opacity: 1;
+}
+
+.kepkaja { padding-top: 40px;
+padding-bottom: 25px;}
